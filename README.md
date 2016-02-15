@@ -1,1 +1,3 @@
 # askrish
+
+hi buddy!
